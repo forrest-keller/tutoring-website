@@ -26,6 +26,7 @@ export default function Home() {
                 width={640}
                 height={640}
                 style={{ objectFit: "contain", objectPosition: "top" }}
+                priority
               />
             </div>
             <div className="sm:self-center">
