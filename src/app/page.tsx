@@ -65,7 +65,7 @@ export default function Home() {
               computer science tutoring, please reach out to me.
             </TypographyP>
             <TypographyP>
-              <b>Location:</b> at home, in public, or online
+              <b>Location:</b> in public or remote
               <br />
               <b>Availability:</b> weekday evenings and weekends
               <br />
