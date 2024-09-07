@@ -67,11 +67,11 @@ export default function Home() {
             <TypographyP>
               <b>Availability:</b> weekday evenings and weekends
               <br />
-              <b>Rate:</b> $50/hr, first session free
-              <br />
               <b>Subjects:</b> computer science, programming
               <br />
               <b>Levels:</b> high school, college
+              <br />
+              <b>Rate:</b> $50/hr, first session free
             </TypographyP>
           </div>
           <div className="flex gap-2">
