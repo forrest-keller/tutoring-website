@@ -26,6 +26,7 @@ export default function Home() {
                 width={640}
                 height={640}
                 style={{ objectFit: "contain", objectPosition: "top" }}
+                sizes="(min-width: 640px) 208px, 640px"
                 priority
               />
             </div>
