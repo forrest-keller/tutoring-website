@@ -65,8 +65,6 @@ export default function Home() {
               computer science tutoring, please reach out to me.
             </TypographyP>
             <TypographyP>
-              <b>Location:</b> in public or remote
-              <br />
               <b>Availability:</b> weekday evenings and weekends
               <br />
               <b>Rate:</b> $50/hr, first session free
