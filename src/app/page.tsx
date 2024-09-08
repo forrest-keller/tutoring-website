@@ -58,8 +58,8 @@ export default function Home() {
             <TypographyP>
               Having spent years tinkering with competitive robots, writing
               software at scale, and falling in love with theoretical computer
-              science, I&apos;m passionate about helping others discover the joy
-              of computer science through deep conceptual understanding.
+              science, I am passionate about helping others discover the joy of
+              computer science through deep conceptual understanding.
             </TypographyP>
             <TypographyP>
               If you or someone you know could benefit from individual
