@@ -44,6 +44,12 @@ export default function Home() {
               </b>
             </TypographyP>
             <TypographyP>
+              Having spent years tinkering with competitive robots, writing
+              software at scale, and falling in love with theoretical computer
+              science, I am passionate about helping others discover the joy of
+              computer science through deep conceptual understanding.
+            </TypographyP>
+            <TypographyP>
               Born in Redmond, Washington, I grew up abroad attending
               international schools. After finishing the International
               Baccalaureate diploma program at Saigon South International
@@ -54,12 +60,6 @@ export default function Home() {
               for PayPal and a small industrial monitoring company. I now work
               remotely full-time as a software engineer and product manager and
               moved to Reno for its amazing proximity to nature.
-            </TypographyP>
-            <TypographyP>
-              Having spent years tinkering with competitive robots, writing
-              software at scale, and falling in love with theoretical computer
-              science, I am passionate about helping others discover the joy of
-              computer science through deep conceptual understanding.
             </TypographyP>
             <TypographyP>
               If you or someone you know could benefit from individual
