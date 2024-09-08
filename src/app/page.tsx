@@ -52,7 +52,7 @@ export default function Home() {
               <i>cum laude</i>, from Trinity University in San Antonio, Texas.
               Throughout my time in college, I interned as a software engineer
               for PayPal and a small industrial monitoring company. I now work
-              remotely full time as a software engineer and product manager, and
+              remotely full-time as a software engineer and product manager and
               moved to Reno for its amazing proximity to nature.
             </TypographyP>
             <TypographyP>
