@@ -9,6 +9,7 @@ import {
   ChatBubbleIcon,
   LinkedInLogoIcon,
 } from "@radix-ui/react-icons";
+import { Separator } from "@radix-ui/react-separator";
 
 const forrestKellerHeadshotAlt =
   "Forrest Keller looking into camera smiling while hiking Mt. Rose.";
@@ -61,8 +62,8 @@ export default function Home() {
               of computer science through deep conceptual understanding.
             </TypographyP>
             <TypographyP>
-              If you or your child could benefit from individual personalized
-              computer science tutoring, please reach out to me.
+              If you or someone you know could benefit from individual
+              personalized computer science tutoring, please reach out to me.
             </TypographyP>
             <TypographyP>
               <b>Availability:</b> weekday evenings and weekends
@@ -90,6 +91,22 @@ export default function Home() {
                 <LinkedInLogoIcon className="mr-2 h-4 w-4" /> LinkedIn
               </a>
             </Button>
+          </div>
+          <Separator />
+          <div className="flex justify-center">
+            <div>
+              <small>
+                <i>
+                  Forrest Keller
+                  <Separator orientation="vertical" />
+                  Reno, NV
+                  <br />
+                  forrestblackburnkeller@gmail.com
+                  <br />
+                  +1 (720) 671-5652
+                </i>
+              </small>
+            </div>
           </div>
         </div>
       </div>
