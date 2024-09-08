@@ -75,30 +75,35 @@ export default function Home() {
               <b>Rate:</b> $50/hr, first session free
             </TypographyP>
           </div>
-          <div className="flex gap-2">
-            <Button asChild>
-              <a href="mailto:forrestblackburnkeller@gmail.com">
-                <EnvelopeOpenIcon className="mr-2 h-4 w-4" /> Email
-              </a>
-            </Button>
-            <Button asChild>
-              <a href="tel:720-671-5652">
-                <ChatBubbleIcon className="mr-2 h-4 w-4" /> Call
-              </a>
-            </Button>
-            <Button asChild variant="ghost">
-              <a href="https://www.linkedin.com/in/forrest-keller/">
-                <LinkedInLogoIcon className="mr-2 h-4 w-4" /> LinkedIn
-              </a>
-            </Button>
+          <div className="flex justify-center sm:justify-start">
+            <div className="flex flex-col sm:flex-row gap-2 w-full">
+              <Button asChild>
+                <a href="mailto:forrestblackburnkeller@gmail.com">
+                  <EnvelopeOpenIcon className="mr-2 h-4 w-4" /> Email
+                </a>
+              </Button>
+              <Button asChild>
+                <a href="tel:720-671-5652">
+                  <ChatBubbleIcon className="mr-2 h-4 w-4" /> Call
+                </a>
+              </Button>
+              <Button asChild variant="ghost">
+                <a href="https://www.linkedin.com/in/forrest-keller/">
+                  <LinkedInLogoIcon className="mr-2 h-4 w-4" /> LinkedIn
+                </a>
+              </Button>
+            </div>
           </div>
-          <Separator />
-          <div className="flex justify-center">
+          <div className="flex gap-5">
+            <Separator
+              orientation="vertical"
+              className="border-cyan-700 border"
+            />
             <div>
               <small>
                 <i>
                   Forrest Keller
-                  <Separator orientation="vertical" />
+                  <br />
                   Reno, NV
                   <br />
                   forrestblackburnkeller@gmail.com
